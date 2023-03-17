@@ -3,3 +3,4 @@
 
 详情可了解<a href='https://space.bilibili.com/515814822/channel/seriesdetail?sid=3130333&ctype=0'>人工智能小技巧-Bilibili</a>。
 
+##预训练ImageNet图像分类模型
